@@ -30,3 +30,4 @@ To run the script you should do the following:
 
 8: After running the script there should be a .csv-file and two .png-plots in your data-folder. 
 
+To assess the code in a more clear and concise manner, open the "sentiment.ipynb"-file in this repository. 
