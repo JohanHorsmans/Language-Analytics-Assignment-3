@@ -1,7 +1,5 @@
 # Language-Analytics-Assignment-3
 
-# Language-Analytics-Assignment-2
-
 Here is the code for my submission for Language Analytics assignment 3:
 
 To run the code, you should download the .py-file in this repository. This can be done manually by going through the following steps:
